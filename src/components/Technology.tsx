@@ -1,8 +1,6 @@
 import React from 'react';
 import { SiPython, SiC, SiCplusplus, SiJavascript, SiTypescript, SiAngular, SiReact, SiGit, SiGithub, SiMongodb, SiNextdotjs, SiHtml5, SiBootstrap, SiMysql} from 'react-icons/si';
 import { FaJava } from 'react-icons/fa';
-import { GiCircuitry } from 'react-icons/gi';
-import { motion } from 'framer-motion';
 //import { SiPython, SiC, SiCplusplus, SiJavascript, SiTypescript, SiAngular, SiReact, SiGit, SiGithub, SiMongodb } from 'react-icons/si';
 
 const skills = [
