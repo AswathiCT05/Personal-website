@@ -72,7 +72,7 @@ const Landing = () => {
         {/* Name and Bio */}
         <h1 className="text-4xl font-bold mt-4 animate-text bg-gradient-to-r from-blue-400 via-red-500 to-green-500 bg-clip-text text-transparent">Aswathi Chittiyam Veettil Thankan</h1>
         <p className="text-lg text-gray-400 mt-2">
-          Master's student in Electrical Engineering and Information Technology.
+          Master&apos;s student in Electrical Engineering and Information Technology.
         </p>
       </div>
     </section>
